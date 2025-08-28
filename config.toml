@@ -1,0 +1,8 @@
+baseURL = "https://leonardgoeke.github.io/cv/" 
+languageCode = "en-us"
+title = "Leonard Göke | Publication list"
+theme = "Hugo Academic CV Theme"
+
+# These help fix broken CSS/JS paths
+canonifyURLs = true
+relativeURLs = true
